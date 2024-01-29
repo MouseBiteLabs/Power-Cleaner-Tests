@@ -20,7 +20,7 @@ https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/bc147d9e-fd
 
 Original system, unmodified:
 
-https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/f98f8ee9-4fbe-4652-a857-5b330ee12af7
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/c7efdb7a-ea06-4a32-895c-fe5a2f93021b
 
 Added dehiss capacitors:
 
