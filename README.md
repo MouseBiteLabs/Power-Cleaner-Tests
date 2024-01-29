@@ -58,9 +58,9 @@ I will also record the following information for every tested GBA:
 
 ## Test Equipment and Components
 
-- 1x Game Boy Advance circuit board
+- Various revisions of GBAs
 - 2x eneloop Pro AA batteries (fully charged) connected via battery holder
-- 1x PKCELL LP803860 lithium-ion battery
+- 1x PKCELL LP803860 lithium-ion battery (charged to 3.65V, only used for testing AGB-CPU-03)
 - 1x of each stock AGB screen (32-pin and 40-pin)
 - 1x IPS AGB screen kit (Funnyplaying GBA IPS v2)
 - 1x brand new headphone jack (SJ2-3525N)
@@ -68,6 +68,7 @@ I will also record the following information for every tested GBA:
 - 1x 10uF, 25V, X5R ceramic capacitor (GRM188R61E106KA73J)
 - 2x 680uF, 6.3V, solid state aluminum electrolytic capacitor (A750EK687M0JAAE008)
 - 1x audio cable, connected from headphone jack to PC's microphone input
+- Pokemon Fire Red version, authentic
 
 # Results
 
