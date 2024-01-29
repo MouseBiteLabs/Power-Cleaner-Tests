@@ -2,7 +2,7 @@
 
 Since GitHub does not allow for embedding .wav files, I have converted them to MP4 for convenient listening. Source recordings are provided above, as well as an Audacity project including all of the recordings for further analysis.
 
-## Stock Screen, AA Battery
+## Stock Screen
 
 Original system, unmodified: 
 
@@ -16,7 +16,7 @@ Added dehum capacitor:
 
 https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/bc147d9e-fdd7-43fa-b032-b6c29ab4f349
 
-## IPS Screen, AA Battery
+## IPS Screen
 
 Original system, unmodified:
 
