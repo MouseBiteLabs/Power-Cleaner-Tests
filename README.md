@@ -74,19 +74,19 @@ I will also record the following information for every tested GBA:
 
 ## AGB-CPU-02
 
-CPU Revision: CPU AGB
-PMIC: MM1514X
-Amp: IR3R60N
-LCD bias chip included (40-pin)
+- **CPU Revision:** CPU AGB
+- **PMIC:** MM1514X
+- **Amp:** IR3R60N
+- LCD bias chip included (40-pin)
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-02">Link to folder of recordings</a>
 
 ## AGB-CPU-03
 
-CPU Revision: CPU AGB A
-PMIC: 9750B
-Amp: IR3R60N
-LCD bias chip included (40-pin)
+- **CPU Revision:** CPU AGB A
+- **PMIC:** 9750B
+- **Amp:** IR3R60N
+- LCD bias chip included (40-pin)
 
 Recordings were taken with both AAs and LiPo
 
@@ -94,9 +94,9 @@ Recordings were taken with both AAs and LiPo
 
 ## AGB-CPU-10
 
-CPU Revision: CPU AGB A
-PMIC: 9750B
-Amp: IR3R60N
-LCD bias chip not included (32-pin)
+- **CPU Revision:** CPU AGB A
+- **PMIC:** 9750B
+- **Amp:** IR3R60N
+- LCD bias chip not included (32-pin)
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-10">Link to folder of recordings</a>
