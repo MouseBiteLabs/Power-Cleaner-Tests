@@ -14,8 +14,8 @@ On this page, there are a handful of steps for how to improve the audio quality.
 
 1) Cleaning the volume wheel
 2) Cleaning the power switch
-3) Adding the "dehiss" capacitors - 1uF and 10uF ceramic capacitors in parallel with C15
-4) Adding the "dehum" capacitor - a 680uF, 6.3V solid state capacitor from VDD3 to GND 
+3) Adding the dehiss capacitors - 1uF and 10uF ceramic capacitors in parallel with C15
+4) Adding the dehum capacitor - a 680uF, 6.3V solid state capacitor from VDD3 to GND 
 5) Adding a capacitor to clean up noise induced by IPS kits (I will refer to this as the "over current capacitor") - a 680uF, 6.3V solid state capacitor from VCC to GND
 
 One step that is not included here that's often recommended is also cleaning the headphone jack.
@@ -36,7 +36,7 @@ In order to remove any lack of personal skill involved in cleaning the volume wh
 
 ### Test Points
 
-I will record audio for seven test points, output from the headphone jack into the microphone input of my PC, as defined by steps 3 through 5 above:
+I will record audio for seven test points, output from the brand new headphone jack into the microphone input of my PC, as defined by steps 3 through 5 above:
 
 1) An original PCB with no added capacitance, and a stock screen
 2) An original PCB with no added capacitance, and an IPS kit
@@ -48,7 +48,7 @@ I will record audio for seven test points, output from the headphone jack into t
 
 These data points will be collected for every model of GBA board I am able to test. The standard test set up will be with AA batteries, but I will collect one set of data with a lithium ion battery as well to compare.
 
-I will also record the following information for every tested GBA:
+I will also note the following information for every tested GBA:
 
 1) Board revision
 2) AGB CPU revision
