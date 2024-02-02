@@ -1,6 +1,8 @@
 # AGB-CPU-10 (#1) Results
 
 - CPU Revision: CPU AGB A
+- SRAM: Fujitsu MB82D12160-10FN
+- Crystal: Kinseki
 - PMIC: 9750B
 - Amp: IR3R60N
 - LCD bias chip not included (32-pin)
