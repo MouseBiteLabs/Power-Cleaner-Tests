@@ -15,31 +15,33 @@ Since GitHub does not allow for embedding .wav files, I have converted them to M
 
 Original system, unmodified: 
 
-
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/b5ab6ce5-3fca-425d-9173-66f61e10d049
 
 Added dehiss capacitors:
 
-
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/4fe3a08b-cbbe-4216-b6ac-5950e174ef43
 
 Added dehum capacitor:
 
-
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/5dd92ab8-4329-4e6d-944e-5b1474c7f596
 
 ## IPS Screen
 
 Original system, unmodified:
 
-
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/c6a0a4fe-e02a-4623-8302-bb1ebdc0aa8d
 
 Added dehiss capacitors:
 
-
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/1978d485-3b8a-4551-9f8d-09b4da8d63dc
 
 Added dehum capacitor:
 
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/984927dc-0f69-4912-a625-eb8fd8bf1a5b
 
 Added overcurrent capacitor:
 
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/a26305b3-1ffe-4c02-9dcb-52716f87cd0c
 
 
 
