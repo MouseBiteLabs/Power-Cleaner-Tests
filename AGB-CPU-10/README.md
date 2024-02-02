@@ -1,4 +1,9 @@
-# AGB-CPU-10 Results
+# AGB-CPU-10 (#1) Results
+
+- CPU Revision: CPU AGB A
+- PMIC: 9750B
+- Amp: IR3R60N
+- LCD bias chip not included (32-pin)
 
 Since GitHub does not allow for embedding .wav files, I have converted them to MP4 for convenient listening. Source recordings are provided above, as well as an Audacity project including all of the recordings for further analysis.
 
