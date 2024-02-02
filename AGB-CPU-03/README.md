@@ -43,15 +43,15 @@ https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/ad2b742b-12
 
 Original system, unmodified:
 
-https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/f20000d1-d802-472a-855f-9edb49f4c055
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/da6f4f08-2940-42f3-94e9-32150b27fac1
 
 Added dehiss capacitors:
 
-https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/8d200227-83e2-4404-a333-5071f6ca7694
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/23bea5cc-4da6-46c0-8b32-2c3213179e5f
 
 Added dehum capacitor:
 
-https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/6641c3fb-f6a2-4fac-9fe8-03e5996bb125
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/91a4a063-5d7f-4502-a016-2f60a797a1bb
 
 ## IPS Screen, Lithium Ion Battery
 
@@ -69,4 +69,5 @@ https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/0be60a8d-d9
 
 Added overcurrent capacitor:
 
-https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/8cdcf6d5-ef24-425e-8f06-ee28ec85dabd
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/238be817-b57b-42e0-90c8-c5d3fb5cb9ff
+
