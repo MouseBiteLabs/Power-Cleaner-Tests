@@ -1,0 +1,439 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="agb10_3_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="36.4124036281" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="Original PCB, Stock Screen" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1605787">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e49.au" len="41984" min="-0.004456" max="0.006836" rms="0.000549"/>
+				</waveblock>
+				<waveblock start="41984">
+					<simpleblockfile filename="e0808dc9.au" len="176640" min="-0.992462" max="0.999969" rms="0.179529"/>
+				</waveblock>
+				<waveblock start="218624">
+					<simpleblockfile filename="e0808d87.au" len="176640" min="-0.03476" max="0.040466" rms="0.003437"/>
+				</waveblock>
+				<waveblock start="395264">
+					<simpleblockfile filename="e0808f06.au" len="262144" min="-0.271637" max="0.302734" rms="0.044369"/>
+				</waveblock>
+				<waveblock start="657408">
+					<simpleblockfile filename="e0808c79.au" len="262144" min="-0.765747" max="0.717865" rms="0.110556"/>
+				</waveblock>
+				<waveblock start="919552">
+					<simpleblockfile filename="e0808a82.au" len="262144" min="-0.860626" max="0.852905" rms="0.191334"/>
+				</waveblock>
+				<waveblock start="1181696">
+					<simpleblockfile filename="e0808749.au" len="262144" min="-0.958954" max="0.864532" rms="0.140976"/>
+				</waveblock>
+				<waveblock start="1443840">
+					<simpleblockfile filename="e0808508.au" len="161947" min="-0.589142" max="0.691742" rms="0.143849"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Original PCB, Stock Screen" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="1" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1605787">
+				<waveblock start="0">
+					<simpleblockfile filename="e08084f7.au" len="41984" min="-0.004913" max="0.00708" rms="0.000577"/>
+				</waveblock>
+				<waveblock start="41984">
+					<simpleblockfile filename="e0808e95.au" len="176640" min="-0.992126" max="0.999969" rms="0.178015"/>
+				</waveblock>
+				<waveblock start="218624">
+					<simpleblockfile filename="e0808e3d.au" len="176640" min="-0.035614" max="0.040497" rms="0.003457"/>
+				</waveblock>
+				<waveblock start="395264">
+					<simpleblockfile filename="e0808321.au" len="262144" min="-0.270905" max="0.30481" rms="0.044122"/>
+				</waveblock>
+				<waveblock start="657408">
+					<simpleblockfile filename="e0808a54.au" len="262144" min="-0.772064" max="0.70929" rms="0.110309"/>
+				</waveblock>
+				<waveblock start="919552">
+					<simpleblockfile filename="e0808e8b.au" len="262144" min="-0.859863" max="0.847687" rms="0.190629"/>
+				</waveblock>
+				<waveblock start="1181696">
+					<simpleblockfile filename="e0808ebd.au" len="262144" min="-0.967255" max="0.857422" rms="0.140425"/>
+				</waveblock>
+				<waveblock start="1443840">
+					<simpleblockfile filename="e08083f3.au" len="161947" min="-0.588135" max="0.689728" rms="0.142966"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Original PCB, IPS Screen" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2110363">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808cd5.au" len="194560" min="-0.990082" max="0.999969" rms="0.154867"/>
+				</waveblock>
+				<waveblock start="194560">
+					<simpleblockfile filename="e0808a2e.au" len="262144" min="-0.319336" max="0.264801" rms="0.032315"/>
+				</waveblock>
+				<waveblock start="456704">
+					<simpleblockfile filename="e08086c0.au" len="262144" min="-0.194" max="0.234924" rms="0.03547"/>
+				</waveblock>
+				<waveblock start="718848">
+					<simpleblockfile filename="e08088a6.au" len="262144" min="-0.673126" max="0.732697" rms="0.12136"/>
+				</waveblock>
+				<waveblock start="980992">
+					<simpleblockfile filename="e0808895.au" len="262144" min="-0.782867" max="0.735565" rms="0.163336"/>
+				</waveblock>
+				<waveblock start="1243136">
+					<simpleblockfile filename="e0808659.au" len="262144" min="-0.685211" max="0.799744" rms="0.107385"/>
+				</waveblock>
+				<waveblock start="1505280">
+					<simpleblockfile filename="e0808096.au" len="262144" min="-0.615784" max="0.590302" rms="0.129117"/>
+				</waveblock>
+				<waveblock start="1767424">
+					<simpleblockfile filename="e0808324.au" len="262144" min="-0.590149" max="0.586609" rms="0.125534"/>
+				</waveblock>
+				<waveblock start="2029568">
+					<simpleblockfile filename="e0808525.au" len="80795" min="-0.515686" max="0.539368" rms="0.127734"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Original PCB, IPS Screen" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="2110363">
+				<waveblock start="0">
+					<simpleblockfile filename="e080831d.au" len="194560" min="-0.984741" max="0.999969" rms="0.155489"/>
+				</waveblock>
+				<waveblock start="194560">
+					<simpleblockfile filename="e080891c.au" len="262144" min="-0.320648" max="0.265839" rms="0.032113"/>
+				</waveblock>
+				<waveblock start="456704">
+					<simpleblockfile filename="e0808f16.au" len="262144" min="-0.193176" max="0.23288" rms="0.035254"/>
+				</waveblock>
+				<waveblock start="718848">
+					<simpleblockfile filename="e0808941.au" len="262144" min="-0.6698" max="0.730804" rms="0.121062"/>
+				</waveblock>
+				<waveblock start="980992">
+					<simpleblockfile filename="e0808415.au" len="262144" min="-0.779816" max="0.741058" rms="0.162708"/>
+				</waveblock>
+				<waveblock start="1243136">
+					<simpleblockfile filename="e080859a.au" len="262144" min="-0.694397" max="0.813446" rms="0.106959"/>
+				</waveblock>
+				<waveblock start="1505280">
+					<simpleblockfile filename="e0808cb9.au" len="262144" min="-0.611084" max="0.587189" rms="0.128313"/>
+				</waveblock>
+				<waveblock start="1767424">
+					<simpleblockfile filename="e080811f.au" len="262144" min="-0.58905" max="0.582062" rms="0.124757"/>
+				</waveblock>
+				<waveblock start="2029568">
+					<simpleblockfile filename="e08083e8.au" len="80795" min="-0.515228" max="0.536621" rms="0.126922"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dehiss, IPS Screen" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1750043">
+				<waveblock start="0">
+					<simpleblockfile filename="e080802b.au" len="44544" min="-0.004364" max="0.00415" rms="0.000424"/>
+				</waveblock>
+				<waveblock start="44544">
+					<simpleblockfile filename="e0808545.au" len="171520" min="-0.988647" max="0.999969" rms="0.168163"/>
+				</waveblock>
+				<waveblock start="216064">
+					<simpleblockfile filename="e0808926.au" len="171520" min="-0.044678" max="0.048035" rms="0.00561"/>
+				</waveblock>
+				<waveblock start="387584">
+					<simpleblockfile filename="e080827e.au" len="262144" min="-0.212219" max="0.263458" rms="0.038052"/>
+				</waveblock>
+				<waveblock start="649728">
+					<simpleblockfile filename="e0808744.au" len="262144" min="-0.672302" max="0.619171" rms="0.092815"/>
+				</waveblock>
+				<waveblock start="911872">
+					<simpleblockfile filename="e0808b28.au" len="262144" min="-0.73114" max="0.730377" rms="0.163979"/>
+				</waveblock>
+				<waveblock start="1174016">
+					<simpleblockfile filename="e0808af3.au" len="262144" min="-0.813995" max="0.741058" rms="0.12129"/>
+				</waveblock>
+				<waveblock start="1436160">
+					<simpleblockfile filename="e0808d5f.au" len="262144" min="-0.507324" max="0.597687" rms="0.121791"/>
+				</waveblock>
+				<waveblock start="1698304">
+					<simpleblockfile filename="e0808406.au" len="51739" min="-0.621796" max="0.582855" rms="0.147318"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dehiss, IPS Screen" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1750043">
+				<waveblock start="0">
+					<simpleblockfile filename="e080878a.au" len="44544" min="-0.00473" max="0.003876" rms="0.00041"/>
+				</waveblock>
+				<waveblock start="44544">
+					<simpleblockfile filename="e0808b88.au" len="171520" min="-0.9841" max="0.999969" rms="0.168821"/>
+				</waveblock>
+				<waveblock start="216064">
+					<simpleblockfile filename="e0808253.au" len="171520" min="-0.045319" max="0.048187" rms="0.005608"/>
+				</waveblock>
+				<waveblock start="387584">
+					<simpleblockfile filename="e0808a4f.au" len="262144" min="-0.209534" max="0.263428" rms="0.03784"/>
+				</waveblock>
+				<waveblock start="649728">
+					<simpleblockfile filename="e08089ab.au" len="262144" min="-0.674042" max="0.625397" rms="0.092619"/>
+				</waveblock>
+				<waveblock start="911872">
+					<simpleblockfile filename="e080870f.au" len="262144" min="-0.727478" max="0.729218" rms="0.163384"/>
+				</waveblock>
+				<waveblock start="1174016">
+					<simpleblockfile filename="e0808658.au" len="262144" min="-0.817902" max="0.75473" rms="0.120846"/>
+				</waveblock>
+				<waveblock start="1436160">
+					<simpleblockfile filename="e0808979.au" len="262144" min="-0.506073" max="0.595276" rms="0.12104"/>
+				</waveblock>
+				<waveblock start="1698304">
+					<simpleblockfile filename="e0808c14.au" len="51739" min="-0.619232" max="0.580475" rms="0.146378"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dehiss, Stock Screen" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1638043">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e29.au" len="207360" min="-0.991852" max="0.999969" rms="0.159088"/>
+				</waveblock>
+				<waveblock start="207360">
+					<simpleblockfile filename="e0808e04.au" len="262144" min="-0.264374" max="0.297455" rms="0.028483"/>
+				</waveblock>
+				<waveblock start="469504">
+					<simpleblockfile filename="e0808fcc.au" len="262144" min="-0.208435" max="0.277283" rms="0.03895"/>
+				</waveblock>
+				<waveblock start="731648">
+					<simpleblockfile filename="e0808e54.au" len="262144" min="-0.773315" max="0.834229" rms="0.144781"/>
+				</waveblock>
+				<waveblock start="993792">
+					<simpleblockfile filename="e0808712.au" len="262144" min="-0.929443" max="0.836853" rms="0.186163"/>
+				</waveblock>
+				<waveblock start="1255936">
+					<simpleblockfile filename="e0808b56.au" len="262144" min="-0.773041" max="0.853668" rms="0.121551"/>
+				</waveblock>
+				<waveblock start="1518080">
+					<simpleblockfile filename="e08089d4.au" len="119963" min="-0.568359" max="0.649017" rms="0.142561"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dehiss, Stock Screen" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1638043">
+				<waveblock start="0">
+					<simpleblockfile filename="e080833e.au" len="207360" min="-0.985107" max="0.999969" rms="0.159264"/>
+				</waveblock>
+				<waveblock start="207360">
+					<simpleblockfile filename="e0808644.au" len="262144" min="-0.263123" max="0.298889" rms="0.02835"/>
+				</waveblock>
+				<waveblock start="469504">
+					<simpleblockfile filename="e08082f7.au" len="262144" min="-0.208984" max="0.276184" rms="0.038712"/>
+				</waveblock>
+				<waveblock start="731648">
+					<simpleblockfile filename="e0808930.au" len="262144" min="-0.771271" max="0.828918" rms="0.144421"/>
+				</waveblock>
+				<waveblock start="993792">
+					<simpleblockfile filename="e0808a09.au" len="262144" min="-0.939453" max="0.832428" rms="0.185439"/>
+				</waveblock>
+				<waveblock start="1255936">
+					<simpleblockfile filename="e08080cb.au" len="262144" min="-0.774292" max="0.847748" rms="0.121045"/>
+				</waveblock>
+				<waveblock start="1518080">
+					<simpleblockfile filename="e0808967.au" len="119963" min="-0.564728" max="0.644592" rms="0.141666"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dehiss/Dehum, Stock Screen" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1596315">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808e8a.au" len="45568" min="-0.002991" max="0.003021" rms="0.000414"/>
+				</waveblock>
+				<waveblock start="45568">
+					<simpleblockfile filename="e0808c6e.au" len="163584" min="-1.0" max="0.994263" rms="0.214205"/>
+				</waveblock>
+				<waveblock start="209152">
+					<simpleblockfile filename="e0808fc2.au" len="163584" min="-0.08197" max="0.099854" rms="0.009711"/>
+				</waveblock>
+				<waveblock start="372736">
+					<simpleblockfile filename="e0808b5c.au" len="262144" min="-0.261444" max="0.302551" rms="0.041248"/>
+				</waveblock>
+				<waveblock start="634880">
+					<simpleblockfile filename="e0808e56.au" len="262144" min="-0.755737" max="0.692413" rms="0.098486"/>
+				</waveblock>
+				<waveblock start="897024">
+					<simpleblockfile filename="e080865b.au" len="262144" min="-0.850861" max="0.849976" rms="0.186629"/>
+				</waveblock>
+				<waveblock start="1159168">
+					<simpleblockfile filename="e08084f0.au" len="262144" min="-0.948883" max="0.849274" rms="0.145298"/>
+				</waveblock>
+				<waveblock start="1421312">
+					<simpleblockfile filename="e080888d.au" len="175003" min="-0.572754" max="0.675171" rms="0.139095"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dehiss/Dehum, Stock Screen" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1596315">
+				<waveblock start="0">
+					<simpleblockfile filename="e080869d.au" len="45568" min="-0.003052" max="0.003143" rms="0.000425"/>
+				</waveblock>
+				<waveblock start="45568">
+					<simpleblockfile filename="e0808009.au" len="163584" min="-1.0" max="0.994385" rms="0.213778"/>
+				</waveblock>
+				<waveblock start="209152">
+					<simpleblockfile filename="e0808055.au" len="163584" min="-0.080536" max="0.098877" rms="0.009664"/>
+				</waveblock>
+				<waveblock start="372736">
+					<simpleblockfile filename="e0808ba7.au" len="262144" min="-0.258759" max="0.303436" rms="0.041032"/>
+				</waveblock>
+				<waveblock start="634880">
+					<simpleblockfile filename="e080864c.au" len="262144" min="-0.760773" max="0.687927" rms="0.098294"/>
+				</waveblock>
+				<waveblock start="897024">
+					<simpleblockfile filename="e0808e76.au" len="262144" min="-0.849365" max="0.844574" rms="0.185953"/>
+				</waveblock>
+				<waveblock start="1159168">
+					<simpleblockfile filename="e0808635.au" len="262144" min="-0.954712" max="0.841064" rms="0.144805"/>
+				</waveblock>
+				<waveblock start="1421312">
+					<simpleblockfile filename="e080807b.au" len="175003" min="-0.570892" max="0.673706" rms="0.138254"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dehiss/Dehum, IPS Screen" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1633051">
+				<waveblock start="0">
+					<simpleblockfile filename="e08082ff.au" len="173568" min="-0.915161" max="0.996857" rms="0.175308"/>
+				</waveblock>
+				<waveblock start="173568">
+					<simpleblockfile filename="e0808bbd.au" len="262144" min="-0.470978" max="0.396118" rms="0.047074"/>
+				</waveblock>
+				<waveblock start="435712">
+					<simpleblockfile filename="e0808bc8.au" len="262144" min="-0.186737" max="0.236237" rms="0.036783"/>
+				</waveblock>
+				<waveblock start="697856">
+					<simpleblockfile filename="e080823a.au" len="262144" min="-0.679108" max="0.727814" rms="0.112842"/>
+				</waveblock>
+				<waveblock start="960000">
+					<simpleblockfile filename="e080845c.au" len="262144" min="-0.77655" max="0.718903" rms="0.159582"/>
+				</waveblock>
+				<waveblock start="1222144">
+					<simpleblockfile filename="e0808e93.au" len="262144" min="-0.673309" max="0.724182" rms="0.10478"/>
+				</waveblock>
+				<waveblock start="1484288">
+					<simpleblockfile filename="e0808399.au" len="148763" min="-0.491425" max="0.575317" rms="0.124143"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dehiss/Dehum, IPS Screen" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1633051">
+				<waveblock start="0">
+					<simpleblockfile filename="e080882a.au" len="173568" min="-0.915131" max="0.979004" rms="0.175318"/>
+				</waveblock>
+				<waveblock start="173568">
+					<simpleblockfile filename="e0808bec.au" len="262144" min="-0.477295" max="0.397491" rms="0.04655"/>
+				</waveblock>
+				<waveblock start="435712">
+					<simpleblockfile filename="e0808bd4.au" len="262144" min="-0.186218" max="0.235168" rms="0.036566"/>
+				</waveblock>
+				<waveblock start="697856">
+					<simpleblockfile filename="e0808333.au" len="262144" min="-0.678192" max="0.72345" rms="0.112585"/>
+				</waveblock>
+				<waveblock start="960000">
+					<simpleblockfile filename="e0808ae3.au" len="262144" min="-0.784851" max="0.71521" rms="0.158992"/>
+				</waveblock>
+				<waveblock start="1222144">
+					<simpleblockfile filename="e08085e2.au" len="262144" min="-0.673553" max="0.725616" rms="0.104385"/>
+				</waveblock>
+				<waveblock start="1484288">
+					<simpleblockfile filename="e0808072.au" len="148763" min="-0.486908" max="0.57251" rms="0.123375"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dehiss/Dehum/Overcurrent, IPS Screen" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1752731">
+				<waveblock start="0">
+					<simpleblockfile filename="e0808529.au" len="44032" min="-0.004486" max="0.003082" rms="0.000348"/>
+				</waveblock>
+				<waveblock start="44032">
+					<simpleblockfile filename="e08089e0.au" len="261120" min="-0.860718" max="0.999969" rms="0.145103"/>
+				</waveblock>
+				<waveblock start="305152">
+					<simpleblockfile filename="e0808849.au" len="262144" min="-0.213593" max="0.259094" rms="0.027041"/>
+				</waveblock>
+				<waveblock start="567296">
+					<simpleblockfile filename="e0808704.au" len="262144" min="-0.509583" max="0.575104" rms="0.049597"/>
+				</waveblock>
+				<waveblock start="829440">
+					<simpleblockfile filename="e0808172.au" len="262144" min="-0.660492" max="0.726715" rms="0.151407"/>
+				</waveblock>
+				<waveblock start="1091584">
+					<simpleblockfile filename="e0808136.au" len="262144" min="-0.703705" max="0.728577" rms="0.13255"/>
+				</waveblock>
+				<waveblock start="1353728">
+					<simpleblockfile filename="e08085ae.au" len="262144" min="-0.468201" max="0.517883" rms="0.103779"/>
+				</waveblock>
+				<waveblock start="1615872">
+					<simpleblockfile filename="e0808a85.au" len="136859" min="-0.5672" max="0.533173" rms="0.117573"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Dehiss/Dehum/Overcurrent, IPS Screen" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1752731">
+				<waveblock start="0">
+					<simpleblockfile filename="e08085d8.au" len="44032" min="-0.004211" max="0.003052" rms="0.000334"/>
+				</waveblock>
+				<waveblock start="44032">
+					<simpleblockfile filename="e08082ce.au" len="261120" min="-0.860596" max="0.999969" rms="0.145096"/>
+				</waveblock>
+				<waveblock start="305152">
+					<simpleblockfile filename="e0808a7a.au" len="262144" min="-0.215942" max="0.25705" rms="0.026914"/>
+				</waveblock>
+				<waveblock start="567296">
+					<simpleblockfile filename="e0808b00.au" len="262144" min="-0.505005" max="0.571045" rms="0.049508"/>
+				</waveblock>
+				<waveblock start="829440">
+					<simpleblockfile filename="e0808145.au" len="262144" min="-0.659637" max="0.723602" rms="0.150889"/>
+				</waveblock>
+				<waveblock start="1091584">
+					<simpleblockfile filename="e0808071.au" len="262144" min="-0.69455" max="0.733063" rms="0.13217"/>
+				</waveblock>
+				<waveblock start="1353728">
+					<simpleblockfile filename="e08084ea.au" len="262144" min="-0.465027" max="0.517609" rms="0.10316"/>
+				</waveblock>
+				<waveblock start="1615872">
+					<simpleblockfile filename="e08088d6.au" len="136859" min="-0.566406" max="0.529846" rms="0.116849"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
