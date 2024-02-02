@@ -2,6 +2,8 @@
 
 - CPU Revision: CPU AGB
 - PMIC: 9750A
+- SRAM: NEC D442012AGY-BC85X-MJH
+- Crystal: Daishinku
 - Amp: IR3R60N
 - LCD bias chip included (40-pin)
 
