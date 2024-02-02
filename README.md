@@ -18,9 +18,9 @@ On this page, there are a handful of steps for how to improve the audio quality.
 4) Adding the "dehum" capacitor - a 680uF, 6.3V solid state capacitor from VDD3 to GND 
 5) Adding a capacitor to clean up noise induced by IPS kits (I will refer to this as the "over current capacitor") - a 680uF, 6.3V solid state capacitor from VCC to GND
 
-One step that is not included that's often recommended is also cleaning the headphone jack.
+One step that is not included here that's often recommended is also cleaning the headphone jack.
 
-### Controlling for Clean Components
+### Controlling for Dirty/Old Components
 
 In order to remove any lack of personal skill involved in cleaning the volume wheel, power switch, and headphone jack, I will be performing the following control conditions:
 
@@ -52,9 +52,11 @@ I will also record the following information for every tested GBA:
 
 1) Board revision
 2) AGB CPU revision
-3) PMIC part number
-4) Audio amp part number
-5) LCD bias chip presence (32-pin vs 40-pin screen connector)
+3) SRAM part number
+4) Crystal oscillator manufacturer
+5) PMIC part number
+6) Audio amp part number
+7) LCD bias chip presence (32-pin vs 40-pin screen connector)
 
 ## Test Equipment and Components
 
@@ -72,9 +74,13 @@ I will also record the following information for every tested GBA:
 
 # Results
 
+As mentioned earlier, I will not be posting my personal analysis of the data to keep this as impartial as possible. I can confirm that the recordings here match what I hear with headphones *and* on the speaker, so my recording set up is a valid way of capturing the audio.
+
 ## AGB-CPU-02
 
 - **CPU Revision:** CPU AGB
+- **SRAM:** NEC D442012AGY-BC85X-MJH
+- **Crystal:** Kinseki
 - **PMIC:** MM1514X
 - **Amp:** IR3R60N
 - LCD bias chip included (40-pin)
@@ -84,6 +90,8 @@ I will also record the following information for every tested GBA:
 ## AGB-CPU-03 #1
 
 - **CPU Revision:** CPU AGB A
+- **SRAM:** Toshiba TC55V200FT-70
+- **Crystal:** Kinseki
 - **PMIC:** 9750B
 - **Amp:** IR3R60N
 - LCD bias chip included (40-pin)
@@ -96,6 +104,8 @@ Recordings were taken with both AAs and LiPo
 
 - **CPU Revision:** CPU AGB
 - **PMIC:** 9750A
+- **SRAM:** NEC D442012AGY-BC85X-MJH
+- **Crystal:** Daishinku
 - **Amp:** IR3R60N
 - LCD bias chip included (40-pin)
 
@@ -104,6 +114,8 @@ Recordings were taken with both AAs and LiPo
 ## AGB-CPU-10 #1
 
 - **CPU Revision:** CPU AGB A
+- **SRAM:** Fujitsu MB82D12160-10FN
+- **Crystal:** Kinseki
 - **PMIC:** 9750B
 - **Amp:** IR3R60N
 - LCD bias chip not included (32-pin)
@@ -113,8 +125,29 @@ Recordings were taken with both AAs and LiPo
 ## AGB-CPU-10 #2
 
 - **CPU Revision:** CPU AGB A
+- **SRAM:** Hynix HY62LF16206A-LT12C
+- **Crystal:** Daishinku
 - **PMIC:** S6960
 - **Amp:** BH7835AFS
 - LCD bias chip not included (32-pin)
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-10_%232">Link to folder of recordings</a>
+
+## AGB-CPU-10 #3
+
+This one is actually a combination of #1 and #2. It is the same as #1, but I swapped the audio amplifier chip from #2 onto it and removed C45, C46, and C47 (as seems to be done with the BH amp according to the Game Boy Hardware Database).
+
+- **CPU Revision:** CPU AGB A
+- **SRAM:** Fujitsu MB82D12160-10FN
+- **Crystal:** Kinseki
+- **PMIC:** 9750B
+- **Amp:** BH7835AFS
+- LCD bias chip not included (32-pin)
+
+<a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-10_%233">Link to folder of recordings</a>
+
+# Resources
+
+- Retrosix Wiki - https://www.retrosix.wiki/dehum-dehiss-removing-noise-from-gba-audio
+- Game Boy Hardware Database - https://gbhwdb.gekkio.fi/consoles/agb/
+- Console5 Wiki - https://wiki.console5.com/wiki/Game_Boy_Advance
