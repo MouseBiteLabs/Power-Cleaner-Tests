@@ -76,7 +76,7 @@ I will also record the following information for every tested GBA:
 
 As mentioned earlier, I will not be posting my personal analysis of the data to keep this as impartial as possible. I can confirm that the recordings here match what I hear with headphones *and* on the speaker, so my recording set up is a valid way of capturing the audio.
 
-Each folder contains .wav recordings of all tests, including one Audacity project for further analysis, if anyone wants to plot some audio spectrums or something.
+Each folder contains .wav recordings of all tests, including an Audacity project compiling all recordings for further analysis, if anyone wants to plot some audio spectrums or something.
 
 ## AGB-CPU-02
 
