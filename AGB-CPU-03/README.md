@@ -1,6 +1,8 @@
 # AGB-CPU-03 (#1) Results
 
 - CPU Revision: CPU AGB A
+- SRAM: Toshiba TC55V200FT-70
+- Crystal: Kinseki
 - PMIC: 9750B
 - Amp: IR3R60N
 - LCD bias chip included (40-pin)
