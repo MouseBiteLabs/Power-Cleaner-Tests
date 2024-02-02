@@ -78,6 +78,8 @@ As mentioned earlier, I will not be posting my personal analysis of the data to 
 
 Each folder contains .wav recordings of all tests, including an Audacity project compiling all recordings for further analysis, if anyone wants to plot some audio spectrums or something.
 
+For each of these headings, I will include a .mp4 file (GitHub does not allow embedding of .wav files) to show what a stock system sounds like, unmodified. The .wav files of these recordings are included in each folder as well, they're just posted here for reference and easy comparison. Not all Game Boy Advances are created the same! There are definite differences in audio quality between the systems I tested (though none are unbearable to listen to, in my opinion).
+
 ## AGB-CPU-02
 
 - **CPU Revision:** CPU AGB
@@ -88,6 +90,10 @@ Each folder contains .wav recordings of all tests, including an Audacity project
 - LCD bias chip included (40-pin)
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-02">Link to folder of recordings</a>
+
+### Baseline System Recording
+
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/92ffb846-9aab-4656-bb53-d61d84b8b03d
 
 ## AGB-CPU-03 #1
 
@@ -102,6 +108,10 @@ Recordings were taken with both AAs and LiPo
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-03">Link to folder of recordings</a>
 
+### Baseline System Recording
+
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/5fbff1c3-a372-483c-83d0-be5cc0ea4e91
+
 ## AGB-CPU-03 #2
 
 - **CPU Revision:** CPU AGB
@@ -112,6 +122,10 @@ Recordings were taken with both AAs and LiPo
 - LCD bias chip included (40-pin)
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-03_%232">Link to folder of recordings</a>
+
+### Baseline System Recording
+
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/d9caf81d-3ee3-4260-bb24-644a31c1a194
 
 ## AGB-CPU-10 #1
 
@@ -124,6 +138,10 @@ Recordings were taken with both AAs and LiPo
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-10">Link to folder of recordings</a>
 
+### Baseline System Recording
+
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/f3edeebb-2702-4dd0-abea-1fca8014b980
+
 ## AGB-CPU-10 #2
 
 - **CPU Revision:** CPU AGB A
@@ -134,6 +152,10 @@ Recordings were taken with both AAs and LiPo
 - LCD bias chip not included (32-pin)
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-10_%232">Link to folder of recordings</a>
+
+### Baseline System Recording
+
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/45feb38f-c7ad-4641-a2d2-dfc1bd15fdbd
 
 ## AGB-CPU-10 #3
 
@@ -147,6 +169,10 @@ This one is actually a combination of #1 and #2. It is the same as #1, but I swa
 - LCD bias chip not included (32-pin)
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-10_%233">Link to folder of recordings</a>
+
+### Baseline System Recording
+
+https://github.com/MouseBiteLabs/Power-Cleaner-Tests/assets/97127539/d95b09b7-42ab-49c6-b106-172001a0e08a
 
 # Resources
 
