@@ -66,7 +66,7 @@ I will also record the following information for every tested GBA:
 - 1x brand new headphone jack (SJ2-3525N)
 - 1x 1uF, 25V, X5R ceramic capacitor (C0603C105K3PACTU)
 - 1x 10uF, 25V, X5R ceramic capacitor (GRM188R61E106KA73J)
-- 2x 680uF, 6.3V, solid state aluminum electrolytic capacitor (A750EK687M0JAAE008)
+- 2x 680uF, 6.3V, solid state aluminum electrolytic capacitor (A750EK687M0JAAE008, specifically chosen for the low ESR)
 - 1x audio cable, connected from headphone jack to PC's microphone input
 - Pokemon Fire Red version, authentic
 
@@ -81,7 +81,7 @@ I will also record the following information for every tested GBA:
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-02">Link to folder of recordings</a>
 
-## AGB-CPU-03
+## AGB-CPU-03 #1
 
 - **CPU Revision:** CPU AGB A
 - **PMIC:** 9750B
@@ -92,7 +92,16 @@ Recordings were taken with both AAs and LiPo
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-03">Link to folder of recordings</a>
 
-## AGB-CPU-10
+## AGB-CPU-03 #2
+
+- **CPU Revision:** CPU AGB
+- **PMIC:** 9750A
+- **Amp:** IR3R60N
+- LCD bias chip included (40-pin)
+
+<a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-03_%232">Link to folder of recordings</a>
+
+## AGB-CPU-10 #1
 
 - **CPU Revision:** CPU AGB A
 - **PMIC:** 9750B
@@ -100,3 +109,12 @@ Recordings were taken with both AAs and LiPo
 - LCD bias chip not included (32-pin)
 
 <a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-10">Link to folder of recordings</a>
+
+## AGB-CPU-10 #2
+
+- **CPU Revision:** CPU AGB A
+- **PMIC:** S6960
+- **Amp:** BH7835AFS
+- LCD bias chip not included (32-pin)
+
+<a href="https://github.com/MouseBiteLabs/Power-Cleaner-Tests/tree/main/AGB-CPU-10_%232">Link to folder of recordings</a>
