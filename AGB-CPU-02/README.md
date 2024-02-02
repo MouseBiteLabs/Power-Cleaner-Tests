@@ -1,6 +1,8 @@
 # AGB-CPU-02 Results
 
 - CPU Revision: CPU AGB
+- SRAM: NEC D442012AGY-BC85X-MJH
+- Crystal: Kinseki
 - PMIC: MM1514X
 - Amp: IR3R60N
 - LCD bias chip included (40-pin)
