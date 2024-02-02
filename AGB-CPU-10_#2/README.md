@@ -1,6 +1,8 @@
 # AGB-CPU-10 (#2) Results
 
 - CPU Revision: CPU AGB A
+- SRAM: Hynix HY62LF16206A-LT12C
+- Crystal: Daishinku
 - PMIC: S6960
 - Amp: BH7835AFS
 - LCD bias chip not included (32-pin)
