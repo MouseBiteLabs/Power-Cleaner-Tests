@@ -1,6 +1,6 @@
 # Power Cleaner Tests
 
-This repository is a compilation of recordings of the Game Boy Advance (AGB) audio output, before and after adding various capacitors provided by "Power Cleaner" mods. There has been a lot of discussion about what these mods achieve, but I haven't seen any actual empirical evidence. I've been looking at the AGB more recently, so I figured I'd do a deeper dive into the topic and provide some recordings so people can hear the differences for themselves.
+This repository is a compilation of recordings of the Game Boy Advance (AGB) audio output, before and after adding various capacitors provided by Power Cleaner mods. There has been a lot of discussion about what these mods achieve, but I haven't seen any actual empirical evidence. I've been looking at the AGB more recently, so I figured I'd do a deeper dive into the topic and provide some recordings so people can hear the differences for themselves.
 
 This repository only compiles data - I will not be publishing my conclusions on the effectiveness of the added capacitances. It is up to you, dear reader/listener, to decide for yourself. All of the resulting audio recordings will be posted in their own folders above.
 
